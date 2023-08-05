@@ -1,0 +1,29 @@
+@font-face {
+    font-family: bebas;
+    src: url('fonts/BebasNeue-Regular.ttf');
+}
+
+html, body { 
+    margin: 0; 
+    padding: 0; 
+}
+
+.top_menu_bar{
+    margin-inline: 50px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    background-color: aqua;
+}
+
+.divider_row{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.liner{
+    stroke: #1B180D;
+    stroke-width: 5;
+}

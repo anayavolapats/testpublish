@@ -1,0 +1,9 @@
+@font-face {
+    font-family: bebas;
+    src: url('fonts/BebasNeue-Regular.ttf');
+}
+
+html, body { 
+    margin: 0; 
+    padding: 0; 
+}
